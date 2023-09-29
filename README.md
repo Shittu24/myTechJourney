@@ -50,7 +50,7 @@ I take pride in the projects I've worked on:
 
 - **Description**: Built a CRUD (Create, Read, Update, Delete) operations web application using Spring Boot for the backend and Angular for the frontend. This application allows users to manage todo lists efficiently.
 - **Skills and Technologies Used**: Java, Spring Boot, Angular, MySQL
-- **GitHub Repository**: [Todo](https://github.com/shittu24/todo)
+- **GitHub Repository**: [Todo](https://github.com/shittu24/Todo-API)
 
 ## Certification
 
