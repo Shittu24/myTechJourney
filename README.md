@@ -61,7 +61,6 @@ I take pride in the projects I've worked on:
 I'm always open to new opportunities and collaborations. Feel free to get in touch:
 
 - **Email**: [ibrahimshittu007@gmail.com]
-- **LinkedIn**: [Ibrahim](https://www.linkedin.com/in/ibrahim/)
 - **GitHub**: [Shittu24](https://github.com/shittu24)
 
 Let's connect and work on exciting projects together!
